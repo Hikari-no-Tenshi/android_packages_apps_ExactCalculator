@@ -17,4 +17,6 @@
 
 <resources>
     <style name="Theme.Toolbar" parent="@android:style/ThemeOverlay.Material.ActionBar" />
+
+    <style name="Theme.Popup" parent="@android:style/ThemeOverlay.Material.Light" />
 </resources>
